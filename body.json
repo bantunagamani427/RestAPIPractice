@@ -1,0 +1,23 @@
+{ "students":
+ 
+[
+   {
+      "id":1,
+      "Name":"Naga",
+       "Location":"Telangana",
+"phone_number":"123-456-7890"
+},
+{
+ "id":2,
+ "Name":"Akshith Sai",
+"Location":"Hyderabad",
+"phone_number":"123-476-9807"
+},
+{
+"id":3,
+"Name":"BannuBittu",
+"Location":"Annavaram",
+"phone_number":"587383498"
+}
+]
+}
